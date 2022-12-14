@@ -41,6 +41,6 @@ st.dataframe(df2.describe())
 
 st.header("Разработчики")
 st.write("""[Никита Кудрявцев](https://vk.com/nkudr07) - создание методички, создание веб-приложения\n
-[Даниил Бардадымов ](https://vk.com/donttouchthisplz) - аналитика\n
+[Даниил Бардадымов ](https://vk.com/donttouchthisplz) - аналитика, сборка датасета\n
 [Кристина Николаева](https://vk.com/twinfield) - обработка данных
 """)
